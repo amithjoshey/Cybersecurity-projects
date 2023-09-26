@@ -36,7 +36,7 @@ extend="\\"
 
 def send_email():
     # Email configuration
-    smtp_server = 'smtp.gmail.com'
+    smtp_server = 'smtp.emailserver.com'
     smtp_port = 587
     smtp_username = 'youremail@email.com'
     smtp_password = 'corresponding password'
